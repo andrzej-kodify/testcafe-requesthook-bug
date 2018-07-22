@@ -1,0 +1,14 @@
+{
+  "name": "testcafe-requesthook-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests/ "
+  },
+  "author": "andrzej@kodify.io",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^0.20.5"
+  }
+}
