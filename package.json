@@ -7,8 +7,5 @@
     "test": "testcafe chrome tests/ "
   },
   "author": "andrzej@kodify.io",
-  "license": "ISC",
-  "dependencies": {
-    "testcafe": "^0.20.5"
-  }
+  "license": "ISC"
 }
